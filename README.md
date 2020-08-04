@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫  Send a email via contact@wenderson.dev to reach me.
+
+[![Wenderson's github stats](https://github-readme-stats.vercel.app/api?username=wenderson-p&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/wenderson-p/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
