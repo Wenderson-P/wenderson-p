@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 [![Wenderson's github stats](https://github-readme-stats.vercel.app/api?username=wenderson-p&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/wenderson-p/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
