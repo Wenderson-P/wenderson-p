@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   34 hrs 32 mins  ███████████████████████▓░   94.80 % 
-JSON         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Markdown     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Groovy       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Java         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript   35 hrs 43 mins  ███████████████████████▓░   95.32 % 
+JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Groovy       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+XML          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
