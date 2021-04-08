@@ -29,10 +29,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 10 mins  ██████████▓░░░░░░░░░░░░░░   43.04 % 
-TypeScript   8 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.45 % 
-Groovy       1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JSON         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Properties   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+JavaScript   10 hrs 12 mins  ███████████▒░░░░░░░░░░░░░   45.76 % 
+TypeScript   6 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
+Groovy       2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Properties   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 <!--END_SECTION:waka-->
