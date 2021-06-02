@@ -29,10 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 23 mins   █████████████▒░░░░░░░░░░░   53.72 % 
-Haskell      4 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.98 % 
-Markdown     51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript   6 hrs 1 min     ███████████████░░░░░░░░░░   60.09 % 
+Haskell      2 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Markdown     44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 <!--END_SECTION:waka-->
